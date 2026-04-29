@@ -1,0 +1,2 @@
+name ="softwarica"
+print(name)
